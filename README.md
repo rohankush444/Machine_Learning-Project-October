@@ -336,6 +336,32 @@ Machine_Learning-Project-October/
 
 This is a suggested structure, not a claim that every listed file is already uploaded. Include only the files that exist. The dataset ZIP file and trained model can be stored separately if they are too large or subject to licensing restrictions.
 
+## Project Results and Visualizations
+
+### 1. Dataset Distribution
+![Dataset Distribution](results/dataset_distribution.png)
+
+### 2. Sample Fish Images
+![Sample Fish Images](results/sample_fish_images.png)
+
+### 3. Lighting Variations
+![Lighting Variations](results/lighting_variations.png)
+
+### 4. Training and Validation Accuracy
+![Training and Validation Accuracy](results/training_validation_accuracy.png)
+
+### 5. Training and Validation Loss
+![Training and Validation Loss](results/training_validation_loss.png)
+
+### 6. Confusion Matrix
+![Confusion Matrix](results/confusion_matrix.png)
+
+### 7. Lighting Accuracy Comparison
+![Lighting Accuracy Comparison](results/lighting_accuracy_comparison.png)
+
+### 8. Example Test Prediction
+![Example Test Prediction](results/test_prediction.png)
+
 ## 14. Limitations
 
 * The model is evaluated on a particular dataset and may not generalize to all fish species.
