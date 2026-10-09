@@ -339,7 +339,7 @@ This is a suggested structure, not a claim that every listed file is already upl
 ## Project Results and Visualizations
 
 ### 1. Dataset Distribution
-![Dataset Distribution](results/dataset_distribution (1).png).
+![Dataset Distribution](results/dataset_distribution (1).png)
 
 ### 2. Sample Fish Images
 ![Sample Fish Images](results/sample_fish_images.png)
